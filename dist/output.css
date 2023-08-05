@@ -13,3 +13,20 @@ overflow: auto;
     border-radius: 640px;
 margin-top: 100px;
 }
+.project{
+    width: 250px;
+    height: 300px;
+}
+.img-box{
+    width: Hug (1,000px) ;
+height: Hug (1,168px);
+top: 1006px;
+left: 220px;
+gap: 44px;
+
+}
+.ion{
+    
+    text-decoration: none;
+}
+
